@@ -1,5 +1,6 @@
 # Please put your name in alphabetical order by LAST NAME
 Amsaf Sami
 Elizabeth Baker
+Moe Daif
 Rob Marsh
 Emily Hill
